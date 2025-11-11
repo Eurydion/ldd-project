@@ -13,9 +13,7 @@
   --color-foreground: #d6d6d6; /* white text */
   --color-darkshade1: #2C2C2E;
   --color-shade1: #F4F6FB;
-  --color-primary: #3040E5;
 }
-
 
 body {
   background-color: var(--color-background);
